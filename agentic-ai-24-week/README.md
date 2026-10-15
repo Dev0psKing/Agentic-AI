@@ -69,6 +69,5 @@ This repository organizes resources for a 24-week Agentic AI training journey. I
         └── learning-log.md
 ```
 
-## Start contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the simple process for adding and checking resources.
+
