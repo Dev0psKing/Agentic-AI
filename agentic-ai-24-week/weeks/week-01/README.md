@@ -27,4 +27,3 @@ _To be filled in after reviewing the source materials. Do not infer the official
 ## Related files
 
 - [Resource notes](resource-notes.md)
-- [Learning log](learning-log.md)
