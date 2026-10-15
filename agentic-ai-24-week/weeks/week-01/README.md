@@ -1,6 +1,6 @@
 # Week 01 - Resource Index
 
-**Status:** Links recorded; source contents not yet verified  
+**Status:** Completed  
 **Official week title:** To be confirmed from the materials
 
 ## Source materials
