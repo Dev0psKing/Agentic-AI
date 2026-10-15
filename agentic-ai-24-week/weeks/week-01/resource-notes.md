@@ -1,4 +1,4 @@
-# Week 01 — Resource Notes
+# Week 01 - Resource Notes
 
 > Complete these notes after opening and reviewing the original resources.
 

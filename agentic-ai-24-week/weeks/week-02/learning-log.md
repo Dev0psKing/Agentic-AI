@@ -1,4 +1,4 @@
-# Week 02 — Learning Log
+# Week 02 - Learning Log
 
 - **Date started:** 
 - **Date completed:** 

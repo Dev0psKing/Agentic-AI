@@ -2,7 +2,7 @@
 
 # Agentic AI Field Guide
 
-**A 24-week learning journey — organized resources, hands-on practice, and learning notes.**
+**A 24-week learning journey - organized resources, hands-on practice, and learning notes.**
 
 [Start Here](#start-here) · [24-Week Roadmap](ROADMAP.md) · [Weekly Resources](#weekly-resources) · [Contributing](CONTRIBUTING.md)
 
@@ -34,11 +34,11 @@ This repository organizes resources for a 24-week Agentic AI training journey. I
 
 ## Resource status key
 
-- `Not started` — not reviewed yet
-- `In progress` — currently studying
-- `Completed` — worked through the material
-- `Reviewed` — link and description checked
-- `Needs access` — source cannot currently be opened
+- `Not started` - not reviewed yet
+- `In progress` - currently studying
+- `Completed` - worked through the material
+- `Reviewed` - link and description checked
+- `Needs access` - source cannot currently be opened
 
 ## Curation principles
 
