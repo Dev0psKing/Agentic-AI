@@ -15,7 +15,7 @@ files = {
 
         # Agentic AI Field Guide
 
-        **A 24-week learning journey — organized resources, hands-on practice, and learning notes.**
+        **A 24-week learning journey - organized resources, hands-on practice, and learning notes.**
 
         [Start Here](#start-here) · [24-Week Roadmap](ROADMAP.md) · [Weekly Resources](#weekly-resources) · [Contributing](CONTRIBUTING.md)
 
@@ -47,11 +47,11 @@ files = {
 
         ## Resource status key
 
-        - `Not started` — not reviewed yet
-        - `In progress` — currently studying
-        - `Completed` — worked through the material
-        - `Reviewed` — link and description checked
-        - `Needs access` — source cannot currently be opened
+        - `Not started` - not reviewed yet
+        - `In progress` - currently studying
+        - `Completed` - worked through the material
+        - `Reviewed` - link and description checked
+        - `Needs access` - source cannot currently be opened
 
         ## Curation principles
 
@@ -137,7 +137,7 @@ files = {
 
 week01 = {
     "README.md": W("""
-        # Week 01 — Resource Index
+        # Week 01 - Resource Index
 
         **Status:** Links recorded; source contents not yet verified  
         **Official week title:** To be confirmed from the materials
@@ -169,7 +169,7 @@ week01 = {
         - [Learning log](learning-log.md)
     """),
     "resource-notes.md": W("""
-        # Week 01 — Resource Notes
+        # Week 01 - Resource Notes
 
         > Complete these notes after opening and reviewing the original resources.
 
@@ -209,7 +209,7 @@ week01 = {
         _Write a short explanation in your own words after reviewing the materials._
     """),
     "learning-log.md": W("""
-        # Week 01 — Learning Log
+        # Week 01 - Learning Log
 
         - **Date started:** 
         - **Date completed:** 
@@ -235,7 +235,7 @@ week01 = {
 
 week02 = {
     "README.md": W("""
-        # Week 02 — Resource Index
+        # Week 02 - Resource Index
 
         **Status:** Links recorded; source contents not yet verified  
         **Official week title:** To be confirmed from the materials
@@ -267,7 +267,7 @@ week02 = {
         - [Learning log](learning-log.md)
     """),
     "resource-notes.md": W("""
-        # Week 02 — Resource Notes
+        # Week 02 - Resource Notes
 
         > Complete these notes after opening and reviewing the original resources.
 
@@ -303,7 +303,7 @@ week02 = {
         _Write a short explanation in your own words after reviewing the materials._
     """),
     "learning-log.md": W("""
-        # Week 02 — Learning Log
+        # Week 02 - Learning Log
 
         - **Date started:** 
         - **Date completed:** 

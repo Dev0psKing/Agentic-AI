@@ -17,7 +17,7 @@
 
 The **Agentic AI Field Guide** is a 24-week learning journey that collects, organizes, and tracks the resources, hands-on exercises, and personal study notes behind an agentic artificial intelligence training program.
 
-This repository is not a course itself. It is a field guide — a living index that points to the original source materials (slides, documents, videos, repositories) and keeps a personal record of what was learned, what was practiced, and what still needs clarification.
+This repository is not a course itself. It is a field guide - a living index that points to the original source materials (slides, documents, videos, repositories) and keeps a personal record of what was learned, what was practiced, and what still needs clarification.
 
 It exists to answer one question for every week of the program:
 
@@ -33,7 +33,7 @@ The guide is organized into 24 weeks, each with its own folder under `agentic-ai
 
 | File | Purpose |
 |------|---------|
-| `README.md` | Resource index — links to the week's slides, documents, and repositories, plus review status |
+| `README.md` | Resource index - links to the week's slides, documents, and repositories, plus review status |
 | `resource-notes.md` | Personal notes on what each resource covers, key takeaways, and open questions |
 | `learning-log.md` | Dated log of what was studied, practiced, and delivered that week |
 
@@ -45,7 +45,7 @@ The guide is organized into 24 weeks, each with its own folder under `agentic-ai
 | [Week 02](agentic-ai-24-week/weeks/week-02/README.md) | Links recorded; GitHub destination needs clarification | [View resources](agentic-ai-24-week/weeks/week-02/README.md) |
 | Weeks 03–24 | Not yet supplied | Reserved for future resources |
 
-Weeks 01 and 02 have their source links recorded, but their official topics, learning objectives, and contents have not yet been verified against the source materials. Weeks 03 through 24 are reserved — their folders and templates exist, but they are waiting for the official curriculum to be supplied.
+Weeks 01 and 02 have their source links recorded, but their official topics, learning objectives, and contents have not yet been verified against the source materials. Weeks 03 through 24 are reserved - their folders and templates exist, but they are waiting for the official curriculum to be supplied.
 
 The full tracking roadmap lives at [agentic-ai-24-week/ROADMAP.md](agentic-ai-24-week/ROADMAP.md).
 
@@ -56,11 +56,11 @@ The full tracking roadmap lives at [agentic-ai-24-week/ROADMAP.md](agentic-ai-24
 Whether you are a learner, a reviewer, or a contributor, follow these steps:
 
 1. **Open the relevant week** in `agentic-ai-24-week/weeks/`.
-2. **Start with that week's `README.md`** — it lists the official source materials and their review status.
-3. **Open the linked source materials** — slides, documents, videos, or repositories. Always prefer the original source.
-4. **Complete the hands-on activity** — each week includes practical exercises or deliverables to work through.
-5. **Record your own notes** — write what you learned in `resource-notes.md` and log your practice in `learning-log.md`.
-6. **Update the checklist and status** — mark items complete and update the roadmap when you finish a week.
+2. **Start with that week's `README.md`** - it lists the official source materials and their review status.
+3. **Open the linked source materials** - slides, documents, videos, or repositories. Always prefer the original source.
+4. **Complete the hands-on activity** - each week includes practical exercises or deliverables to work through.
+5. **Record your own notes** - write what you learned in `resource-notes.md` and log your practice in `learning-log.md`.
+6. **Update the checklist and status** - mark items complete and update the roadmap when you finish a week.
 
 Never claim a resource is completed or reviewed until you have actually opened and worked through it.
 
@@ -110,7 +110,7 @@ To keep this guide trustworthy and useful, every contribution should follow thes
 
 ```text
 .
-├── README.md                              # This file — the field guide overview
+├── README.md                              # This file - the field guide overview
 ├── agentic-ai-24-week/                    # The 24-week program scaffold
 │   ├── README.md                          # Week-by-week program overview
 │   ├── ROADMAP.md                         # 24-week tracking roadmap
