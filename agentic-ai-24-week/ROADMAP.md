@@ -1,6 +1,6 @@
 # 24-Week Agentic AI Learning Roadmap
 
-This roadmap is a tracking scaffold, **not a claim about the official training curriculum**. Weeks 1 and 2 contain the resource links supplied so far. Their exact topics and outcomes must be confirmed from the linked materials before this roadmap is filled in.
+This roadmap is a tracking scaffold, **not a claim about the official training curriculum**. Weeks 1 and 2 contain the resource links supplied so far, and their exact topics and outcomes must be confirmed from the linked materials. Week 3 contains the Python fundamentals course materials and is waiting to be reviewed.
 
 ## Weekly progress
 
@@ -8,7 +8,7 @@ This roadmap is a tracking scaffold, **not a claim about the official training c
 |---|---|---|
 | 01 | To verify from source materials | Links recorded |
 | 02 | To verify from source materials | Links recorded |
-| 03 | Awaiting resources | Not started |
+| 03 | Python fundamentals | Materials added |
 | 04 | Awaiting resources | Not started |
 | 05 | Awaiting resources | Not started |
 | 06 | Awaiting resources | Not started |

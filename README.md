@@ -43,9 +43,10 @@ The guide is organized into 24 weeks, each with its own folder under `agentic-ai
 |------|--------|----------------|
 | [Week 01](agentic-ai-24-week/weeks/week-01/README.md) | Links recorded; topics to verify | [View resources](agentic-ai-24-week/weeks/week-01/README.md) |
 | [Week 02](agentic-ai-24-week/weeks/week-02/README.md) | Links recorded; GitHub destination needs clarification | [View resources](agentic-ai-24-week/weeks/week-02/README.md) |
-| Weeks 03–24 | Not yet supplied | Reserved for future resources |
+| [Week 03](agentic-ai-24-week/weeks/week-03/README.md) | Python fundamentals materials added; review in progress | [View resources](agentic-ai-24-week/weeks/week-03/README.md) |
+| Weeks 04–24 | Not yet supplied | Reserved for future resources |
 
-Weeks 01 and 02 have their source links recorded, but their official topics, learning objectives, and contents have not yet been verified against the source materials. Weeks 03 through 24 are reserved - their folders and templates exist, but they are waiting for the official curriculum to be supplied.
+Weeks 01 and 02 have their source links recorded, but their official topics, learning objectives, and contents have not yet been verified against the source materials. Week 03 now contains the Python fundamentals course materials and a local resource index, but the lessons and exercises still need to be worked through and reviewed. Weeks 04 through 24 are reserved - their folders and templates exist, but they are waiting for the official curriculum to be supplied.
 
 The full tracking roadmap lives at [agentic-ai-24-week/ROADMAP.md](agentic-ai-24-week/ROADMAP.md).
 

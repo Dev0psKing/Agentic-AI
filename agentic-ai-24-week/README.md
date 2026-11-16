@@ -10,7 +10,7 @@
 
 ---
 
-> **Project status:** In progress. Weeks 1–2 have resource links recorded. Resource topics and learning outcomes still need to be verified from the source materials.
+> **Project status:** In progress. Weeks 1–2 have resource links recorded, and Week 3 has Python fundamentals course materials added. Week 3 still needs to be worked through and reviewed; the topics and learning outcomes for Weeks 1–2 still need to be verified from the source materials.
 
 ## Start here
 
@@ -30,7 +30,8 @@ This repository organizes resources for a 24-week Agentic AI training journey. I
 |---|---|---|
 | [Week 01](weeks/week-01/README.md) | Links recorded; topics to verify | Foundations / source materials |
 | [Week 02](weeks/week-02/README.md) | Links recorded; GitHub destination needs clarification | Slides and hands-on document |
-| Weeks 03–24 | Not yet supplied | Reserved for future resources |
+| [Week 03](weeks/week-03/README.md) | Python fundamentals materials added; review in progress | Lessons, worked examples, exercises, and supplemental slides |
+| Weeks 04–24 | Not yet supplied | Reserved for future resources |
 
 ## Resource status key
 
