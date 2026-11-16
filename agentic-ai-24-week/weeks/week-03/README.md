@@ -1,19 +1,24 @@
 # Week 03 - Python Fundamentals
 
-**Official week title:** Python Fundamentals (from the Week 3 materials, "eCOMMart AI Squad | Python Fundamentals")  
-**Status:** Materials added; review in progress  
-**Date / schedule:** Week 3 of 24
+This folder contains the Week 3 Python Fundamentals module for the eCOMMart AI Squad program. It starts from the basics of programming and Python setup, then builds through variables, control flow, functions, exceptions, and collections. The week ends with six worked examples and twelve exercises, including a capstone order terminal and a mini agent tool.
 
-## Overview
+## At a glance
 
-Week 3 moves from Agile collaboration into hands-on programming. The materials start with what programming is and how to install Python and VS Code, then build up through variables, data types, control flow, functions, exceptions, and the core Python collections. The week closes with six worked examples and an exercise set built around the eCOMMart B2B marketplace scenario.
+| Field | Detail |
+|---|---|
+| Week | 3 of 24 |
+| Theme | Python fundamentals |
+| Program | eCOMMart AI Squad |
+| Format | Lessons, worked examples, exercises, and supplemental slides |
+| Prerequisites | None. Lesson 003 covers Python and VS Code setup. |
+| Status | Materials added; review in progress |
 
-## Learning objectives
+## What you will learn
 
-Derived from the lesson files and exercises in this folder:
+By the end of this week you should be able to:
 
 - Explain what programming is and how Python code is executed.
-- Install Python and VS Code, then run scripts from the terminal and code from the interactive shell.
+- Install Python and VS Code, run scripts from the terminal, and use the interactive shell.
 - Use variables, constants, literals, type conversion, and the `datetime` module.
 - Apply operators, `if`/`elif`/`else`, `for` and `while` loops, and list comprehensions.
 - Write functions with default values, positional and keyword arguments, `*args` and `**kwargs`, and understand scope.
@@ -21,21 +26,47 @@ Derived from the lesson files and exercises in this folder:
 - Work with lists, dictionaries, tuples, sets, and booleans.
 - Build small eCOMMart programs and combine the week's concepts into a mini agent tool.
 
+## Getting started
+
+1. **Set up your tools.** Follow [003 - How to install Python](<01 - Introduction to Python/003_How_to_Install_Python.md>) to install Python, VS Code, and the Python extension.
+2. **Open this folder in VS Code.** You will run lesson snippets, worked examples, and your own exercise files from here.
+3. **Work through the lessons in order.** Start at `01 - Introduction to Python` and continue through `03 - Programming Building Blocks`.
+4. **Run the worked examples.** Each one is a complete program you can run, trace, and modify.
+5. **Attempt the exercises before reading the solutions.** Use the solutions only to check your approach.
+6. **Review the supplemental slides and demos.** They reinforce the core lessons with additional examples.
+7. **Record your notes.** Add key concepts, questions, and takeaways to `resource-notes.md`.
+
+## Folder map
+
+```text
+week-03/
+├── README.md                          # This file
+├── resource-notes.md                  # Personal notes and open questions
+├── 01 - Introduction to Python/       # Lessons 001-005
+├── 02 - Variables, Literals and Constants/  # Lessons 006-009
+├── 03 - Programming Building Blocks/
+│   ├── A - Operators and Conditions/  # Lessons 010-013
+│   ├── B - Loops/                     # Lesson 014
+│   ├── C - Functions and Scope/       # Lessons 015-019
+│   └── D - Collections/               # Lessons 020-025
+├── 04 - Worked Examples/              # Six complete programs
+├── 05 - Exercises/                    # Twelve exercises and solutions
+└── more resources/
+    └── Python fundamentals/           # Supplemental slides and demos
+```
+
 ## Core lessons
 
-| Resource | Type | Link | Review status |
-|---|---|---|---|
-| Introduction to Python (lessons 001-005) | Reading and setup guide | [Open folder](<01 - Introduction to Python>) | Not started |
-| Variables, literals, and constants (lessons 006-009) | Reading | [Open folder](<02 - Variables, Literals and Constants>) | Not started |
-| Operators and conditions (lessons 010-013) | Reading | [Open folder](<03 - Programming Building Blocks/A - Operators and Conditions>) | Not started |
-| Loops (lesson 014) | Reading | [014 - While loops and user input](<03 - Programming Building Blocks/B - Loops/014_While_Loops_and_User_Input.md>) | Not started |
-| Functions and scope (lessons 015-019) | Reading | [Open folder](<03 - Programming Building Blocks/C - Functions and Scope>) | Not started |
-| Collections (lessons 020-025) | Reading | [Open folder](<03 - Programming Building Blocks/D - Collections>) | Not started |
-| Worked examples | Code walkthroughs | [worked_examples.md](<04 - Worked Examples/worked_examples.md>) | Not started |
-| Exercises | Practice | [exercises.md](<05 - Exercises/exercises.md>) | Not started |
-| Exercise solutions | Reference | [solutions.md](<05 - Exercises/solutions.md>) | Not started |
+| Section | Lessons | Link |
+|---|---|---|
+| 01 - Introduction to Python | 001-005: What programming is, Python, installation, Hello World, keywords, and identifiers | [Open folder](<01 - Introduction to Python>) |
+| 02 - Variables, Literals and Constants | 006-009: Variables, constants, literals, data types, type conversion, date and time | [Open folder](<02 - Variables, Literals and Constants>) |
+| 03A - Operators and Conditions | 010-013: Operators, `if`/`elif`/`else`, conditional statements, list comprehensions | [Open folder](<03 - Programming Building Blocks/A - Operators and Conditions>) |
+| 03B - Loops | 014: `while` loops, user input, menus, and sentinel patterns | [Open lesson](<03 - Programming Building Blocks/B - Loops/014_While_Loops_and_User_Input.md>) |
+| 03C - Functions and Scope | 015-019: Functions, arguments, `*args` and `**kwargs`, scope, exceptions | [Open folder](<03 - Programming Building Blocks/C - Functions and Scope>) |
+| 03D - Collections | 020-025: Lists, dictionaries, tuples, sets, and booleans | [Open folder](<03 - Programming Building Blocks/D - Collections>) |
 
-## Lesson map
+### Lesson map
 
 | Section | Lessons |
 |---|---|
@@ -45,6 +76,29 @@ Derived from the lesson files and exercises in this folder:
 | 03B - Loops | 014 While loops and user input |
 | 03C - Functions and Scope | 015 Functions; 016 More functions; 017 `*args` and `**kwargs`; 018 Nested statements and scope; 019 Exceptions |
 | 03D - Collections | 020 Lists; 021 Advanced lists; 022 Dictionaries; 023 Tuples; 024 Sets and booleans; 025 Advanced sets |
+
+## Worked examples
+
+The [worked examples](<04 - Worked Examples/worked_examples.md>) are complete, runnable programs. Read the explanation, trace the code, then run it yourself. Each example builds toward the mini agent tool.
+
+| Example | Program | Key concepts |
+|---|---|---|
+| 1 | Product Card Printer | Variables, string types, f-strings, `print` |
+| 2 | Customer Membership Tier Checker | `if`/`elif`/`else`, booleans, comparison operators |
+| 3 | Shopping Cart with a List and Dictionary | Lists, dictionaries, `for` loops, arithmetic |
+| 4 | Product Validator | Functions, docstrings, `is_nan`, `safe_eval`, `try`/`except` |
+| 5 | Inventory Manager | Sets, `while` loops, menu-driven programs |
+| 6 | eCOMMart Mini Agent Tool | All Week 3 concepts combined |
+
+## Exercises
+
+The [exercise set](<05 - Exercises/exercises.md>) contains twelve tasks across three levels. Attempt each one before opening the [solutions](<05 - Exercises/solutions.md>).
+
+| Level | Exercises | Focus |
+|---|---|---|
+| Beginner | 1-4 | String types, price calculations, membership tiers, dictionaries |
+| Intermediate | 5-8 | Tuples, sets, validation, functions, delivery zones |
+| Advanced | 9-12 | Agent tool validation, comprehensions, exception handling, capstone order terminal |
 
 ## Supplemental resources
 
@@ -65,7 +119,9 @@ Extra slide decks and runnable demos from the Python fundamentals series are kep
 - [ ] Set up Python and VS Code with lesson 003.
 - [ ] Work through lessons 001-025 in order.
 - [ ] Run each of the six worked examples and trace what the code does.
-- [ ] Complete the exercises before opening the solutions.
+- [ ] Complete exercises 1-4 at the beginner level.
+- [ ] Complete exercises 5-8 at the intermediate level.
+- [ ] Complete exercises 9-12 at the advanced level.
 - [ ] Review the supplemental slides and run the demo scripts.
 - [ ] Record key concepts and open questions in `resource-notes.md`.
 - [ ] Update the week status in `ROADMAP.md` when review is complete.
@@ -83,3 +139,5 @@ Extra slide decks and runnable demos from the Python fundamentals series are kep
 - [Worked examples](<04 - Worked Examples/worked_examples.md>)
 - [Exercises](<05 - Exercises/exercises.md>)
 - [Exercise solutions](<05 - Exercises/solutions.md>)
+- [Week 3 roadmap entry](../../ROADMAP.md)
+- [Back to the 24-week guide](../../README.md)
